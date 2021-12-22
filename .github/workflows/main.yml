@@ -4,7 +4,7 @@ on:
   # execucacao por eventos
   push:
     branches:
-      - main
+      - master
   
   # execucao programada
   schedule:
